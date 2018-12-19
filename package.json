@@ -21,5 +21,18 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "Creating a Reddit clone so that I can get out of the 'researcher' stage of learning and jump into the real *hard parts* of it!",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracehartzell/react-to-reddit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracehartzell/react-to-reddit/issues"
+  },
+  "homepage": "https://github.com/gracehartzell/react-to-reddit#readme"
 }
